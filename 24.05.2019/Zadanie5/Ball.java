@@ -7,7 +7,7 @@ import com.company.Turner;
 
 public class Ball implements Turner
         @Override
-
+{
         public void turn() {
             System.out.println("Kicking");
         }
